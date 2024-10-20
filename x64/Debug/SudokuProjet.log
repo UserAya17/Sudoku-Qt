@@ -1,0 +1,3 @@
+﻿  uic ..\..\..\..\Downloads\SudokuSolverGUI-main11112\SudokuSolverGUI-main\Sudoku.ui
+   File 'C:\Users\DELL\Downloads\SudokuSolverGUI-main11112\SudokuSolverGUI-main\Sudoku.ui' is not valid
+C:\Users\DELL\AppData\Local\QtMsBuild\qt_globals.targets(272,5): error MSB4181: The "QtRunWork" task returned false but did not log an error.
